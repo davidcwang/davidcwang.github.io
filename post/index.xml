@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on David Wang</title>
+    <link>https://www.example.com/post/</link>
+    <description>Recent content in Posts on David Wang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>&amp;copy; 2016. All rights reserved.</copyright>
+    <lastBuildDate>Sun, 11 Aug 2019 17:50:44 -0700</lastBuildDate>
+    
+	<atom:link href="https://www.example.com/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Pin to Win: Why you should pin your dependencies</title>
+      <link>https://www.example.com/post/pin-to-win-why-you-should-pin-your-dependencies/</link>
+      <pubDate>Sun, 11 Aug 2019 17:50:44 -0700</pubDate>
+      
+      <guid>https://www.example.com/post/pin-to-win-why-you-should-pin-your-dependencies/</guid>
+      <description>In the age of containers and CI/CD pipelines, repeatable and consistent builds have become more and more critical. A key part of having consistent builds is ensuring that you have a consistent environment and consistent dependencies - while the former can be achieved by using Docker, the latter can be achieved by explicitly pinning your dependencies.
+If you’re developing a Python application, most likely you’ll be using pip to manage your dependencies.</description>
+    </item>
+    
+  </channel>
+</rss>
